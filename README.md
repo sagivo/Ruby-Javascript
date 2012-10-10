@@ -74,11 +74,11 @@ Make Your Life Easy Functions
 ###number
 you can use any of the following after a number:<br>
 `seconds`, `minutes`, `hours`, `days`, `weeks`,`years`<br>
-You can choose both plural and singular worlds. After choosing the right time you can use: `ago` or `from now`.<br>
+You can choose both plural and singular worlds. After choosing the right time you can use: `ago` or `fromNow`.<br>
 <b>Important</b> - f you specify a round number (integer) make sure you use double dots `..` after the number.<br>
 Examples:
 
-- `1..day.from_now`
+- `1..day.fromNow`
 - `2.3.weeks.ago`
 
 
