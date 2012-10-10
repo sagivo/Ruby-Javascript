@@ -41,6 +41,7 @@ In order to add your own methode you can call `extendObject(obj, funcName, func,
 
 - `obj` - The class you wish to extends (`Number`/ `String`...)
 - `funcName` - The name of your new function.
+- `func` - Function to execute once the funcName called.
 - `attr` - (optional) //TODO add some explanation 
 
 For example:<br>
