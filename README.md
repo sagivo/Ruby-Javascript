@@ -11,8 +11,11 @@ Imagin doing that:<br>
 `msg.reverse // =>"dlrow wolleh"` <br>
 
 Now imaging that:<br>
-`1..day.fromNow // => return a date object contains the next day` <br>
-`3.5.hours.ago // => return a date object of 3.5 hours ago`
+`1..day.fromNow`
+> return a date object contains the next day
+
+`3.5.hours.ago`
+> return a date object of 3.5 hours ago
 
 - No more extra `()` 
 - Clean and simple
@@ -41,7 +44,8 @@ For example:<br>
 `extendObject(String, 'sayHello',function(){ return "Hello " + this + "!"; });`
 
 After you define this new methode you can call it from anywhare in your code:<br>
-`"John".sayHello // => "Hello John!"`
+`"John".sayHello`
+>"Hello John!"`
 ###aliasFunc
 You can also define an alias to your methodes using `aliasFunc(obj, func, alias)`:
 
@@ -50,7 +54,9 @@ You can also define an alias to your methodes using `aliasFunc(obj, func, alias)
 - `alias` - The alias you want.
 
 For example you can do something like that `aliasFunc(String, 'sayHello', 'greeting')` and then:<br>
-`"John".greeting // => "Hello John"`
+`"John".greeting`
+
+>"Hello John"`
 
 Make Your Life Easy Functions
 -
