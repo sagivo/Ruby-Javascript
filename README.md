@@ -49,6 +49,7 @@ For example:<br>
 After you define this new methode you can call it from anywhare in your code:<br>
 `"John".sayHello`
 >"Hello John!"`
+
 ###aliasFunc
 You can also define an alias to your methodes using `aliasFunc(obj, func, alias)`:
 
