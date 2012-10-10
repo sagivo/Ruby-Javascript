@@ -7,8 +7,11 @@ We all love ruby. The main reason we love ruby is that it's so easy to write cod
 This project aims to bring the joy of Ruby into Javascript language. How? <br>
 Imagin doing that:<br>
 `var msg = "hellow world";`<br>
-`msg.titlize // => "Hello World"` <br>
-`msg.reverse // =>"dlrow wolleh"` <br>
+`msg.titlize`
+> "Hello World"` 
+
+`msg.reverse`
+>"dlrow wolleh"`
 
 Now imaging that:<br>
 `1..day.fromNow`
