@@ -60,7 +60,7 @@ You can also define an alias to your methodes using `aliasFunc(obj, func, alias)
 For example you can do something like that `aliasFunc(String, 'sayHello', 'greeting')` and then:<br>
 `"John".greeting`
 
->"Hello John"`
+>"Hello John!"`
 
 Make Your Life Easy Functions
 -
