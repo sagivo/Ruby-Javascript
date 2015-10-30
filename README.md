@@ -6,12 +6,12 @@ about
 We all love ruby. The main reason we love ruby is that it's so easy to write code at.
 This project aims to bring the joy of Ruby into Javascript language. How? <br>
 Imagin doing that:<br>
-`var msg = "hellow world";`<br>
+`var msg = "hello world";`<br>
 `msg.titlize`
 > "Hello World"` 
 
 `msg.reverse`
->"dlrow wolleh"`
+>"dlrow olleh"`
 
 Now imaging that:<br>
 `1..day.fromNow`
